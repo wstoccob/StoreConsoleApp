@@ -1,0 +1,14 @@
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\bin\Debug\net8.0\StoreConsoleApp.exe
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\bin\Debug\net8.0\StoreConsoleApp.deps.json
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\bin\Debug\net8.0\StoreConsoleApp.runtimeconfig.json
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\bin\Debug\net8.0\StoreConsoleApp.dll
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\bin\Debug\net8.0\StoreConsoleApp.pdb
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\obj\Debug\net8.0\StoreConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\obj\Debug\net8.0\StoreConsoleApp.AssemblyInfoInputs.cache
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\obj\Debug\net8.0\StoreConsoleApp.AssemblyInfo.cs
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\obj\Debug\net8.0\StoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\obj\Debug\net8.0\StoreConsoleApp.dll
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\obj\Debug\net8.0\refint\StoreConsoleApp.dll
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\obj\Debug\net8.0\StoreConsoleApp.pdb
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\obj\Debug\net8.0\StoreConsoleApp.genruntimeconfig.cache
+C:\Users\wstoccob\Desktop\projects\StoreConsoleApp\StoreConsoleApp\obj\Debug\net8.0\ref\StoreConsoleApp.dll
